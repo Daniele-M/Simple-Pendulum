@@ -1,4 +1,4 @@
-Simulates an ideal simple pendulum.
+Simulates an ideal simple pendulum using Pygame.
 
 Click on the screen to generate a pendulum in the position you clicked.
 
